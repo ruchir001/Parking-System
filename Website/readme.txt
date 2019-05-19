@@ -14,7 +14,7 @@ Step-2:
 Make sure there is a folder name PayPal in the zip file. 
 
 Step-3:
-project.php is the main file of this software. It ia Login/Signup Page.
+index.php is the main file of this software.
 
 Step-4
 Open any browser in your system and start xampp server.
