@@ -1,4 +1,4 @@
-# Smart-Parking-System
+# Parking-System
 I completed this as a project for my Software Engineering class during my undergraduate at VIT.
 Online parking booking system which provides customers a way of reserving a parking space online and automatic verification using image processing techniques.<br>
 The aim is to tackle the present parking problem which is being confronted everywhere throughout the world in various circumstances. This is a standout issue amongst the most concerned issues for developing countries like India.
